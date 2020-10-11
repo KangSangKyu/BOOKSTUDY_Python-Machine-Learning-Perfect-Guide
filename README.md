@@ -5,6 +5,8 @@ Chapter 1. sklearn (2020. 10. 09)
 
 Chapter 2. Data Preprocessing (2020. 10. 10)
 
+Chapter 3. Machine Learning Evaluation (2020. 10. 11)
+
 
 # Example
 1. 타이타닉 생존자 예측 (2020. 10. 10)
