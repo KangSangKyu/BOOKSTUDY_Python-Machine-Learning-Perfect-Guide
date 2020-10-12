@@ -10,3 +10,5 @@ Chapter 3. Machine Learning Evaluation (2020. 10. 11)
 
 # Example
 1. 타이타닉 생존자 예측 (2020. 10. 10)
+
+2. 피마 당뇨병 예측 (2020. 10. 12)
