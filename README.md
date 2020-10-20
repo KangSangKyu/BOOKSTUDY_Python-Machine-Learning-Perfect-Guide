@@ -11,6 +11,8 @@ Chapter 4. Classification (2020. 10. 13)
 
 Chapter 5. Ensemble and RandomForest (2020. 10. 15)
 
+Chapter 6. XGBoost (2020. 10. 17)
+
 # Example
 1. 타이타닉 생존자 예측 (2020. 10. 10)
 
