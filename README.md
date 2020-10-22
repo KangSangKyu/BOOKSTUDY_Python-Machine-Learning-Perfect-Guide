@@ -13,6 +13,8 @@ Chapter 5. Ensemble and RandomForest (2020. 10. 15)
 
 Chapter 6. XGBoost (2020. 10. 17)
 
+Chapter 7. Stacking Ensenble (2020. 10. 22)
+
 # Example
 1. 타이타닉 생존자 예측 (2020. 10. 10)
 
