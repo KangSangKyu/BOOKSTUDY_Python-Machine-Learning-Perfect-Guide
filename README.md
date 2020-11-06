@@ -15,6 +15,8 @@ Chapter 6. XGBoost (2020. 10. 17)
 
 Chapter 7. Stacking Ensenble (2020. 10. 22)
 
+Chapter 8. CV Stacking (2020. 11. 06)
+
 # Example
 1. 타이타닉 생존자 예측 (2020. 10. 10)
 
