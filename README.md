@@ -17,7 +17,9 @@ Chapter 7. Stacking Ensenble (2020. 10. 22)
 
 Chapter 8. CV Stacking (2020. 11. 06)
 
-Chapter 9. Linear Regression (2020. 11. 20)
+Chapter 9. Linear Regression (2020. 11. 8)
+
+Chapter 10. Polynomial Regression (2020. 11. 21)
 
 # Example
 
