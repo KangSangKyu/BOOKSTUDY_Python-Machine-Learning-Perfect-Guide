@@ -17,6 +17,8 @@ Chapter 7. Stacking Ensenble (2020. 10. 22)
 
 Chapter 8. CV Stacking (2020. 11. 06)
 
+Chapter 9. Linear Regression (2020. 11. 20)
+
 # Example
 1. 타이타닉 생존자 예측 (2020. 10. 10)
 
