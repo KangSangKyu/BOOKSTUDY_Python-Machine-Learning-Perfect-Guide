@@ -23,6 +23,8 @@ Chapter 10. Polynomial Regression (2020. 11. 21)
 
 Chapter 11. Ridge, Lasso, ElasticNet (2020. 11. 25)
 
+Chapter 12. Dimension_Reduction (2020. 12. 05)
+
 # Example
 
 1. 타이타닉 생존자 예측 (2020. 10. 10)
